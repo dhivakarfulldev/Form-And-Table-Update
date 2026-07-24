@@ -29,20 +29,8 @@ This project is mainly created for learning and practicing HTML concepts.
 
 ---
 
-## 📂 Project Structure
 
-
-student-registration/
-│
-├── index.html
-└── README.md
-```
-
----
-
-
-
-## 📋 Student Information
+##  Student Information
 
 The registration form can include the following details:
 
